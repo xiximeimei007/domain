@@ -1,1 +1,1 @@
-https://ht.bfbapp.com
+ht.bfbapp.com
