@@ -1,1 +1,1 @@
-ht.bfbapp.com
+api.bfbtop.com
